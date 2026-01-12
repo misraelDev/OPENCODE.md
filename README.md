@@ -69,12 +69,6 @@ focus on the failing tests and suggest fixes.
 
 ---
 
-## Descripción para github 📝
-
-> Este repositorio centraliza los flujos de trabajo de opencode, permitiendo estandarizar comandos de terminal y agentes de automatización para el desarrollo de software, mejorando la productividad y consistencia del equipo.
-
----
-
 ## Recomendaciones ✅
 
 * Mantén los comandos simples y bien descritos
