@@ -1,6 +1,6 @@
 # Guía de comandos opencode 📘
 
-Documentación clara y estandarizada para gestionar proyectos con **opencode**, incluyendo navegación, control, agentes y automatización.
+Documentación clara y estandarizada para gestionar proyectos con **opencode**, incluyendo navegación, control, agentes y automatización...
 
 ---
 
