@@ -78,4 +78,14 @@ focus on the failing tests and suggest fixes.
 
 ---
 
+## Flujo de trabajo recomendado 🔄
+
+1. cd proyecto
+2. opencode
+3. /init
+4. ejecutar agentes (test, build, refactor, docs)
+5. revisar resultados
+6. guardar cambios y cerrar sesión
+
+
 *Última actualización: 2026*
