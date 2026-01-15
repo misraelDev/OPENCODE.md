@@ -88,4 +88,4 @@ focus on the failing tests and suggest fixes.
 6. guardar cambios y cerrar sesión
 
 
-*Última actualización: 2026*
+*Última actualización: 14 de enero de 2026*
