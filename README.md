@@ -16,7 +16,8 @@ Este repositorio contiene la **documentación y configuración oficial** para tr
 | ---------------------- | --------------------------------------- |
 | `cd ruta/del/proyecto` | accede al directorio del proyecto       |
 | `opencode`             | abre el proyecto por primera vez        |
-| `/init`                | crear planificacion                     |
+| `/init`                | crear planificacion
+ `/models`               | selecciónar modelo                      |
 | `opencode -c`          | reabre el proyecto con la sesión previa |
 | `ctrl + c` (2 veces)   | cierra la sesión activa                 |
 
